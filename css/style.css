@@ -1,0 +1,29 @@
+body {
+	background-image: url('../images/tasklist.jpg');
+	background-size: cover;
+}
+h2 {
+	font-weight: 600;
+	color: brown;
+}
+
+.container {
+	margin: auto;
+	max-width: 800px;
+	width: 100%;
+	box-shadow: 0 0 30px 10px blueviolet;
+}
+
+
+.center {
+	margin: auto;
+	margin-bottom: 50px;
+	max-width: 800px;
+	width: 100%;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	background-color: blanchedalmond;
+}
+
+.title-top {
+	box-shadow: 0 0 30px 10px black;
+}
