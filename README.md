@@ -66,6 +66,8 @@ You only need a modern web browser to run this application.
 
 ## 📞 Contact
 
-If you have any questions or feedback, please feel free to open an issue on GitHub!
+Neeraj Kandpal <br>
+LinkedIn : [linkedin.com/in/neeraj-kandpal/](https://www.linkedin.com/in/neeraj-kandpal/) <br>
+Email : neerajkandpal265@gmail.com
 
 ---
